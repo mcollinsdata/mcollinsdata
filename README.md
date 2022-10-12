@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mcollinsdata
 - 👀 I’m interested in learning data analysis. 
-- 🌱 I’m currently learning SQL, Power BI, Excel
+- 🌱 I’m currently learning R, SQL, Power BI, Excel
 - 💞️ I’m looking to collaborate on Anything data related. 
 - 📫 How to reach me m.collins.data@gmail.com
 
